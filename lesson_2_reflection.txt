@@ -20,3 +20,10 @@ manually?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Stagin area contains only Files that are ready for the next commit.
+
+08.04.17
+How can you use the staging area to make sure you have one commit per logical change?
+With git diff kann ich die Differenz zwischen meinem Working Directory und der Staging Area sehen.
+Damit sehe ich genau was beim nächsten Commit geändert wird und kann damit beurteilen dass nur ein Logical Change
+drin ist.
+
