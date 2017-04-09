@@ -27,3 +27,8 @@ With git diff kann ich die Differenz zwischen meinem Working Directory und der S
 Damit sehe ich genau was beim nächsten Commit geändert wird und kann damit beurteilen dass nur ein Logical Change
 drin ist.
 
+09.04.17
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you would try out an experimental code or try to develop something new without affecting the master branch.
+
