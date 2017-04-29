@@ -32,3 +32,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 If you would try out an experimental code or try to develop something new without affecting the master branch.
 
+29.04.17
+How do the diagrams help you visualize the branch structure?
+They help to keep the overview of the structure and explain what happens with the detached HEAD
+
+
