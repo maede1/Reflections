@@ -40,4 +40,10 @@ They help to keep the overview of the structure and explain what happens with th
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is: The 2 branches are merged!
 
+01.05.17
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro: Automatic Merge is fast and easy
+Con: Automatic merge could make false assumptions which leads to Bugs in the Code
+
+
 
