@@ -36,4 +36,8 @@ If you would try out an experimental code or try to develop something new withou
 How do the diagrams help you visualize the branch structure?
 They help to keep the overview of the structure and explain what happens with the detached HEAD
 
+01.05.17
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is: The 2 branches are merged!
+
 
